@@ -1,0 +1,16 @@
+[
+    {
+      "color": "DA0043C8",
+      "dopname": "01",
+      "maxonline": 1000,
+      "name":"Denver Mobile",
+      "online": 100
+    },
+    {
+      "color": "DA0043C8",
+      "dopname": "02",
+      "maxonline": 1000,
+      "name":"Denver Mobile",
+      "online": 100
+    }
+  ]

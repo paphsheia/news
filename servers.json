@@ -1,9 +1,9 @@
 [
     {
       "color": "DA0043C8",
-      "dopname": "| CRMP",
+      "dopname": "#1",
       "maxonline": 1000,
-      "name":"Saint Mobile",
-      "online": 1
+      "name":"Сервер",
+      "online": 58
     }
   ]

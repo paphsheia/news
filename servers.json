@@ -3,6 +3,14 @@
       "color": "B00000",
       "dopname": "#1",
       "maxonline": 1000,
+      "name": "МАТРЕШКА RP | СЕРВЕР #1",
+      "online": "58",
+      "colorr": "B00000"
+    },
+    {
+      "color": "B00000",
+      "dopname": "#1",
+      "maxonline": 1000,
       "name": "МАТРЕШКА RP | СЕРВЕР #2",
       "online": "58",
       "colorr": "B00000"
